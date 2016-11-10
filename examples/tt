@@ -1,0 +1,7 @@
+#!/bin/bash
+
+fff='cd /home/pi/fm'
+
+$fff
+
+sudo ./fm_transmitter -f 99.75 o.wav

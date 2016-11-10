@@ -1,0 +1,3 @@
+do usuniecia jesli nie chcemuy zeby fm_transmitter nie był uruchamiany
+
+/etc/rc.local
